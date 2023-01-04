@@ -2,6 +2,7 @@
 #include <WiFiMulti.h>
 #include <secrets.h>
 #include <WebSocketsClient.h>
+#include <ArduinoJson.h>
 
 // ----------------------------------------------------------------------------------------------------
 // constants
